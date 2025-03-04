@@ -5,6 +5,4 @@
 
 Arvensis Systems LLC is dedicated to building products to empower users.
 
-We see blockchains as useful not only for censorship-resistant permissionless finance, but also for regular consumer apps.
-
-We are libre software, cypherpunk developers who believe Ethereum will bring about levels of individual freedom never seen before.
+https://arvensis.systems
